@@ -1,0 +1,19 @@
+{
+  "iceCreams": [
+    {
+      "id": 1,
+      "flavor": "vanilla",
+      "price": 1.99
+    },
+    {
+      "id": 2,
+      "flavor": "chocolate",
+      "price": 1.99
+    },
+    {
+      "id": 3,
+      "flavor": "rocky road",
+      "price": 2.99
+    }
+  ]
+}
