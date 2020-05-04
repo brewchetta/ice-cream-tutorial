@@ -3,16 +3,39 @@
     {
       "id": 1,
       "flavor": "vanilla",
+      "sprinkles": false,
       "price": 1.99
     },
     {
       "id": 2,
       "flavor": "chocolate",
+      "sprinkles": false,
       "price": 1.99
     },
     {
       "id": 3,
       "flavor": "rocky road",
+      "sprinkles": false,
+      "price": 2.99
+    }
+  ],
+  "cookies": [
+    {
+      "id": 1,
+      "flavor": "vanilla",
+      "sprinkles": false,
+      "price": 1.99
+    },
+    {
+      "id": 2,
+      "flavor": "chocolate",
+      "sprinkles": true,
+      "price": 1.99
+    },
+    {
+      "id": 3,
+      "flavor": "rocky road",
+      "sprinkles": false,
       "price": 2.99
     }
   ]
